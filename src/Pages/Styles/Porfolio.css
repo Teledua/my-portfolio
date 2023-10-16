@@ -1,0 +1,18 @@
+#projects{
+    display: none;
+}
+#projects.open{
+    display: block;
+}
+#Ui{
+    display: none;
+}
+#Ui.open{
+    display: block;
+}
+#Graphics{
+    display: none;
+}
+#Graphics.open{
+    display: block;
+}
